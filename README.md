@@ -10,3 +10,6 @@
 ## Fonctions : 
 - Tester si une chaine est contigue inverse (Palindrome)
 - Affichage des chaines contigue inverse en couleur differente (+ séparation avec des tirets)
+
+## TODO :
+- Ajouter d'autres fonctions plus pertinante
